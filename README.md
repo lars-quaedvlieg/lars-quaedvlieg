@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student in the MSc in Data Science at École Polytechnique Fédérale de Lausanne, where I do research in reinforcement learning and graph neural networks. Before starting my master’s, I obtained my BSc in Data Science and Artificial Intelligence at Maastricht University. During my bachelor’s, I worked on applied research in multi-camera multi-object tracking and multi-agent reinforcement learning as an AI research intern at Aucos AG.<br><br>My research focus lies in machine learning and artificial intelligence, with a focus on reinforcement learning. Further details about my research can be found on my website.<br><br>In my personal time, I very much enjoy skiing, hiking, and field hockey.
+I am a student in the MSc in Data Science at École Polytechnique Fédérale de Lausanne, where I do research in reinforcement learning and graph neural networks. Before starting my master’s, I obtained my BSc in Data Science and Artificial Intelligence at Maastricht University.<br><br>My research focus lies in machine learning and artificial intelligence, with a focus on reinforcement learning. Further details about my research can be found on my website.<br><br>In my personal time, I very much enjoy skiing, hiking, and field hockey.
 
 
 ## 🌐 Socials:
